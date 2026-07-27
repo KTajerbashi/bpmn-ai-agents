@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Apps/">
+    <Project Path="Apps/RabbitMQLibrary/RabbitMQLibrary.csproj" Id="5991f81a-5a5c-4a6e-a620-975f268a6e2f" />
     <Project Path="Apps/ScalarLibrary/ScalarLibrary.csproj" Id="0b3738fe-2c60-4e66-bcc7-5566d2904322" />
     <Project Path="Apps/SwaggerLibrary/SwaggerLibrary.csproj" Id="93f34e89-bdd9-49ac-b758-f4f1ab14d4b6" />
   </Folder>
@@ -8,6 +9,11 @@
   </Folder>
   <Folder Name="/ConsoleApps/">
     <Project Path="ConsoleApps/HttpRequestHandler/HttpRequestHandler.csproj" Id="1531ee40-2e65-4a0d-b9e6-0513f4097f12" />
+  </Folder>
+  <Folder Name="/MessageBrokers/" />
+  <Folder Name="/MessageBrokers/Console.RabbitMQ/">
+    <Project Path="MessageBrokers/Console.RabbitMQ/RabbitMQ.Reciever/RabbitMQ.Reciever.csproj" Id="c97cbbff-d369-4c79-8bf4-7ac68369aa6c" />
+    <Project Path="MessageBrokers/Console.RabbitMQ/RabbitMQ.Sender/RabbitMQ.Sender.csproj" Id="e2ff77c0-0608-404b-84fe-7814a23fc3dd" />
   </Folder>
   <Folder Name="/SoapOnWebApi/">
     <Project Path="SoapOnWebApi/SoapOnWebApi.Soaps/SoapOnWebApi.Soaps.csproj" Id="95b718a9-3a49-4ebd-acd0-751f49b95464" />
