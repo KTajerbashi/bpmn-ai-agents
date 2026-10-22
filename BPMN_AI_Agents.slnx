@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/docs/adr/">
+    <File Path="docs/adr/0001-workflow-engine.md" />
+    <File Path="docs/adr/0002-service-data-ownership.md" />
+    <File Path="docs/adr/0003-messaging-reliability.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="AI_INSTRUCTIONS_CHATGPT.md" />
+    <File Path="AI_INSTRUCTIONS_CLAUDE.md" />
+    <File Path="PROJECT_BRIEF.md" />
+    <File Path="README.md" />
+  </Folder>
+</Solution>
