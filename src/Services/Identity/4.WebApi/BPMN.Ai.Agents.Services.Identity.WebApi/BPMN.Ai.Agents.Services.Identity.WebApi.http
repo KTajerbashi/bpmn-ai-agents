@@ -1,0 +1,6 @@
+@BPMN.Ai.Agents.Services.Identity.WebApi_HostAddress = http://localhost:5088
+
+GET {{BPMN.Ai.Agents.Services.Identity.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

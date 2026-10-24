@@ -12,4 +12,22 @@
     <File Path="PROJECT_BRIEF.md" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Identity/" />
+  <Folder Name="/src/Services/Identity/1.Domain/">
+    <Project Path="src/Services/Identity/1.Domain/BPMN.Ai.Agents.Services.Identity.Domain/BPMN.Ai.Agents.Services.Identity.Domain.csproj" Id="abe31d79-6b37-463a-90bb-276f374caf62" />
+  </Folder>
+  <Folder Name="/src/Services/Identity/2.Application/">
+    <Project Path="src/Services/Identity/2.Application/BPMN.Ai.Agents.Services.Identity.Application/BPMN.Ai.Agents.Services.Identity.Application.csproj" Id="9a4cf877-74a0-48fb-a66d-8e73f14b1faf" />
+  </Folder>
+  <Folder Name="/src/Services/Identity/3.Infrastructure/">
+    <Project Path="src/Services/Identity/3.Infrastructure/BPMN.Ai.Agents.Services.Identity.Infrastructure/BPMN.Ai.Agents.Services.Identity.Infrastructure.csproj" Id="3aed94c0-ac45-45e6-b141-e3e6be3657b0" />
+  </Folder>
+  <Folder Name="/src/Services/Identity/4.WebApi/">
+    <Project Path="src/Services/Identity/4.WebApi/BPMN.Ai.Agents.Services.Identity.WebApi/BPMN.Ai.Agents.Services.Identity.WebApi.csproj" Id="571fe45a-fe26-4c36-8479-cda15ba4de55" />
+  </Folder>
+  <Folder Name="/src/Services/Identity/5.WebApp/">
+    <Project Path="src/Services/Identity/5.WebApp/BPMN.Ai.Agents.Services.Identity.WebApp/BPMN.Ai.Agents.Services.Identity.WebApp.csproj" Id="62f66521-d3b2-4fa9-87fe-151d09de3d85" />
+  </Folder>
 </Solution>
